@@ -1,0 +1,6 @@
+This is the first line.
+Second line, with number 2.
+Third line, number 3 follows.
+Appending fourth line.
+Here is the fifth line, number 5.
+Finally, the sixth line.
